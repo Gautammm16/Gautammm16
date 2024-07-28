@@ -34,7 +34,7 @@
 <hr width="0%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/gautam-jaisur-72b8b8314" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+<a href="https://www.linkedin.com/in/gautam-jaisur/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 
 </p>
 

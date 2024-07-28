@@ -23,18 +23,18 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautammm16&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautammm16&show_icons=true&theme=dark&locale=en&layout=compact" alt="gautammm" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gautammm16&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gautammm16&show_icons=true&theme=dark&locale=en" alt="gautammm" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautammm16&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautammm16&theme=dark" alt="gautammm" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="0%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/gautam-jaisur-72b8b8314" target="blank"><img src="![alt text](image.png)" alt=""></a>
+<a href="www.linkedin.com/in/gautam-jaisur-72b8b8314" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
 
 </p>
 

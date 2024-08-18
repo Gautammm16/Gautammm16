@@ -26,7 +26,6 @@ I'm Gautam ,Final year Student in Masters in Computer Application.  I'm a passio
 <h2>👨‍💻 Programming and Markup Languages</h2>
 
 <p>
-<a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
@@ -43,9 +42,9 @@ I'm Gautam ,Final year Student in Masters in Computer Application.  I'm a passio
 <h2>🧰 Frameworks and Libraries</h2>
 
 <p>
-<a href="#/"><img alt="React" src="https://img.shields.io/badge/React-21759B?logo=React&logoColor=fff&style=flat"></a>
+<a href="#/"><img alt="Reactjs" src="https://img.shields.io/badge/React-21759B?logo=React&logoColor=fff&style=flat"></a>
 <a href="#/"><img alt="express" src="https://img.shields.io/badge/Express-21759B?logo=Express&logoColor=fff&style=flat"></a>
-<a href="#/"><img alt="node" src="https://img.shields.io/badge/Node-21759B?logo=Node&logoColor=fff&style=flat"></a>
+<a href="#/"><img alt="Node" src="https://img.shields.io/badge/Node-21759B?logo=Node&logoColor=fff&style=flat"></a>
 <a href="#/"><img alt="Next" src="https://img.shields.io/badge/Next-21759B?logo=Next&logoColor=fff&style=flat"></a>
 <a href="#/"><img alt="Three" src="https://img.shields.io/badge/Three-21759B?logo=Three&logoColor=fff&style=flat"></a>
 
@@ -95,7 +94,7 @@ I'm Gautam ,Final year Student in Masters in Computer Application.  I'm a passio
 <p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautammm16&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gautammm16&show_icons=true&theme=dark&locale=en&layout=donut" alt="Top Languages" />
 </p>
 
 <p align="left">

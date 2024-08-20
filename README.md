@@ -106,8 +106,6 @@ I'm Gautam ,Final year Student in Masters in Computer Application.  I'm a passio
 
 <br>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{Gautammm16}/count.svg" alt="vibrantfix" /> </p>
-
 <a href="https://github.com/Gautammm16/Gautammm16">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
   </a>

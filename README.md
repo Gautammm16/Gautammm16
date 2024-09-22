@@ -12,7 +12,6 @@ I'm Gautam ,Final year Student in Masters in Computer Application.  I'm a passio
 - 💻 Major is **Computer Science and Technology**.
 - 🌱 I'm currently learning **Web development**. 
 - 🤔 My hobbies are **Listen to  Music 🎵 and Play FPS Games🎮**.
-- 📝This is My Personal Portfolio  **<a href="https://gautam-portfolio-qn76.onrender.com/">Website**
 
 <h3 align="left"> 📫 How to reach me:</h3>
 <p align="left">

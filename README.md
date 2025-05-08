@@ -1,6 +1,4 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Gautam +;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
-</h1>
+
 <br>
 <p>Hello, 
 I'm Gautam ,Final year Student in Masters in Computer Application.  I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Full stack Web Development 🕸.
